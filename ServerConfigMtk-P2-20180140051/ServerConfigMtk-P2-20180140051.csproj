@@ -33,8 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ServiceMtk2-P2-20180140051">
-      <HintPath>D:\PROJECT\PAT2020\ServiceMtk2-P2-20180140051\ServiceMtk2-P2-20180140051\bin\Debug\ServiceMtk2-P2-20180140051.dll</HintPath>
+    <Reference Include="ServiceMtk2-P2-20180140051, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\ServiceMtk2-P2-20180140051\ServiceMtk2-P2-20180140051\bin\Debug\ServiceMtk2-P2-20180140051.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
